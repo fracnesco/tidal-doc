@@ -13,6 +13,7 @@ Many people are connecting **Tidal** to a **DAW** (*digital audio workstation*) 
 
 * [Using Tidal with Ableton](https://club.tidalcycles.org/t/using-tidal-with-ableton-live/3135)
 * [Routing Tidal audio to Ableton](https://club.tidalcycles.org/t/routing-tidal-audio-to-ableton/437)
+* [Hack Your Daw (Francesco Corvi)](https://club.tidalcycles.org/t/hackyourdaw-tidal-ableton/3232)
 
 ## Bitwig
 
